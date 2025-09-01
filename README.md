@@ -1,7 +1,7 @@
 ### Olá 👋
 
 ###### Sobre o Henrique
-5 anos de experiência em análise de dados, visualização,  automações e outros.
+4 anos de experiência em análise de dados, visualização,  automações e outros.
 
 
 ### Detalhes
