@@ -1,6 +1,22 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Henrique+Magosso;I'm+27+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!+:%29)](https://git.io/typing-svg)
-</div>
+### Olá 👋
 
-  <p></p>
-  <div align="center"> 
-  <a href="https://www.instagram.com/henrimagosso/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+###### Sobre o Henrique
+5 anos de experiência em análise de dados, visualização,  automações e outros.
+
+
+### Detalhes
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrimagosso&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=henrimagosso&repo=henrimagosso.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### Linguagens utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrimagosso&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Contatos
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/henriquemagosso/)
